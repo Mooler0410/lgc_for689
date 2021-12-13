@@ -1,6 +1,6 @@
 # lgc_for689
 
-This is the code for the final project for *CSCE689 Algorithms and Optimization for Graph Mining (2021 Fall)*.
+This is the code for the final project of *CSCE689 Algorithms and Optimization for Graph Mining (2021 Fall)*.
 
 Team members: Hongye Jin, Keqiang Yan, Haoran Liu and Xuan Zhang.
 
